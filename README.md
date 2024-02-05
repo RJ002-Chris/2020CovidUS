@@ -1,1 +1,1 @@
-# 2020CovidUS
+# U.S. COVID-19 case/death Data
